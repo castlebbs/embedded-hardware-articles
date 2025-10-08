@@ -16,10 +16,10 @@ To start my comparison, I decided to rewrite the **isn-spectrogram** program (or
 This program draws a spectrogram representing the distribution of sequence number gaps returned between different packets. These gaps correspond to random increments, and the wider the spectrum, the harder it is to predict the sequence numbers.
 
 **Linux 2.4.27 spectrogram:**  
-![linux spectrogram](/path/to/linux.png)
+<img width="490" height="352" alt="linux" src="https://github.com/user-attachments/assets/63631443-f013-4210-90be-2bc1d6b93b11" />
 
 **Zyxel router spectrogram (!):**  
-![zyxel spectrogram](/path/to/zyxel.png)
+<img width="489" height="352" alt="zyxel" src="https://github.com/user-attachments/assets/974454a0-14cf-4098-88c0-a7f265382782" />
 
 ---
 
