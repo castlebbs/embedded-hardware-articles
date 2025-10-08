@@ -16,10 +16,11 @@ Pour commencer ma comparaison j’ai décidé d’écrire en Python/Scapy le pro
 Ce programme dessine un spectrogramme qui représente la distribution des écarts de numéros de séquence renvoyés entre les différents paquets. Ces écarts correspondent à des incréments aléatoires, et plus le spectre sera large, plus il sera difficile de déterminer les numéros de séquences.
 
 **Spectrogramme linux 2.4.27 :**  
-![linux spectrogramme](/path/to/linux.png)
+<img width="490" height="352" alt="linux" src="https://github.com/user-attachments/assets/63631443-f013-4210-90be-2bc1d6b93b11" />
 
 **Spectrogramme d’un routeur Zyxel (!) :**  
-![zyxel spectrogramme](/path/to/zyxel.png)
+<img width="489" height="352" alt="zyxel" src="https://github.com/user-attachments/assets/974454a0-14cf-4098-88c0-a7f265382782" />
+
 
 ---
 
