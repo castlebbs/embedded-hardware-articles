@@ -1,6 +1,6 @@
 # Wiki Blog Articles
 
-This repository contains a collection of technical blog articles that were previously published on blog.ombrepixel.com and nexten.ie. The websites are no longer accessible, so these articles are being preserved here for archival and educational purposes. All articles are now in English and two new ESP32-related articles were added.
+This repository contains a collection of technical blog articles that were previously published on blog.ombrepixel.com and nexten.ie. The websites are no longer accessible, so these articles are being preserved here for archival and educational purposes.
 
 ## Available Articles
 
