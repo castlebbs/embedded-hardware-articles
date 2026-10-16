@@ -1,11 +1,7 @@
-Here is a **Markdown**-formatted version of that archived article (translated where needed, code blocks preserved):
-
----
 
 ## CP8 smartcard reader: exploring the carte bleue (credit card)
 
 _By castlebbs on Tuesday 13 February 2007, 14:57_
-_(Original French)_
 
 > I bought a used smartcard reader for 1 euro in a store in Toulouse. This rather old reader works perfectly under Linux; I decided to write this page to [...]
 > The author cannot in any case be held responsible for any prejudice or damage of any kind that may result from the use of his explanations or programs.
