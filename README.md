@@ -1,6 +1,6 @@
 # Wiki Blog Articles
 
-This repository contains a collection of technical blog articles that were previously published on blog.ombrepixel.com. The website is no longer accessible, so these articles are being migrated here for preservation and reference. More articles will be added as the migration continues.
+This repository contains a collection of technical blog articles that were previously published on blog.ombrepixel.com and nexten.ie. The websites are no longer accessible, so these articles are being migrated here for preservation and reference. More articles will be added as the migration continues.
 
 ## Available Articles
 
